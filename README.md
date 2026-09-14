@@ -17,8 +17,3 @@
 ## How to Reach Me
 - Email: carlosadenge@gmail.com
 - LinkedIn: www.linkedin.com/in/carlosadenge
-
-## Setup
-core.editor="C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
-user.name=carlosadenge
-user.email=carlosadenge@gmail.com
