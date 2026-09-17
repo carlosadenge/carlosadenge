@@ -8,7 +8,6 @@
 ## Skills I'm Building
 - Git and GitHub
 - HTML & CSS
-- Node.js
 - JavaScript
 
 ## Current Projects
