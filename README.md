@@ -11,7 +11,12 @@
 - JavaScript
 
 ## Current Projects
-- My Programming Learning Journey — Building small projects and exercises while developing my programming, Git, and web development skills.
+- [My Personal Website](https://carlosadenge.github.io) 
+- [Markdown Practice](https://github.com/carlosadenge/carlosadenge/blob/main/markdown-practice.md)
+
+## Links
+- 🌐 [Live Website](https://carlosadenge.github.io)
+- 📝 [Markdown Practice](https://github.com/carlosadenge/carlosadenge/blob/main/markdown-practice.md)
 
 ## How to Reach Me
 - Email: carlosadenge@gmail.com
