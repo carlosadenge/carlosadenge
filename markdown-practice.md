@@ -37,6 +37,6 @@ I am learning **Git and GitHub** and finding *Markdown* very useful. I can also 
 
 ## Exercise 7 — Code block
 ```bash
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
+git config --global user.name "Carlos Adenge"
+git config --global user.email "carlosadenge@gmail.com"
 git status
