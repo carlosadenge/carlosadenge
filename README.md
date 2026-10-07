@@ -13,11 +13,11 @@
 ## Current Projects
 - [My Personal Website](https://carlosadenge.github.io) 
 - [Markdown Practice](https://github.com/carlosadenge/carlosadenge/blob/main/markdown-practice.md)
-
+- [Team Repository](https://github.com/carlosadenge/iyf-s12-week-00-team-carlosadenge)
 ## Links
 - 🌐 [Live Website](https://carlosadenge.github.io)
 - 📝 [Markdown Practice](https://github.com/carlosadenge/carlosadenge/blob/main/markdown-practice.md)
-
+- 👥 [Team Repository](https://github.com/carlosadenge/iyf-s12-week-00-team-carlosadenge)
 ## How to Reach Me
 - Email: carlosadenge@gmail.com
 - LinkedIn: www.linkedin.com/in/carlosadenge
